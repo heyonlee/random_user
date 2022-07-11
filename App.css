@@ -1,0 +1,39 @@
+.Header{
+background-color: rgb(137, 68, 182);
+height:5rem;
+
+color:indigo;
+margin-top:0%;
+}
+h1{
+    font-size: 50px;
+    margin-left: 33rem;
+}
+body{
+    margin:0%;
+    background-color: lightgrey;
+}
+img{
+    border-radius: 20%;
+    margin-left: 5rem;
+}
+.User{
+    background-color: beige;
+    height:20rem;
+    width: 17rem;
+    align-items: center;
+    margin-left: 35rem;
+    border-radius: 3%;
+}
+
+.User1{
+    background-color: beige;
+    height:5rem;
+    width: 17rem;
+    align-items: center;
+    margin-left: 35rem;
+    border-radius: 3%;
+}
+button{
+    margin-left: 35rem;
+}
